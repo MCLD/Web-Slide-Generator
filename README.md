@@ -1,11 +1,30 @@
-## MCLD SlideGen
-### Automating web slide creation
+# MCLD SlideGen
+## Automating web slide creation
 ### Created by Daniel Messer, Web Content Manager
 
-Assembling web slides takes quite a bit of time, and there are often over 100 slides to make every month. Rather than spend hours in Photoshop, I
-decided to create a web app in PHP, leveraging ImageMagick, that builds the slides programmatically.
+Assembling web slides takes quite a bit of time, and there are often over 100 slides to make every month. Rather than spend hours in Photoshop, I decided to create a web app in PHP, leveraging ImageMagick, that builds the slides programmatically.
 
-### Current workflow
+## Example Images
+
+**Blue Slide Example**
+
+![Blue slide example](http://i.imgur.com/BUSMIB4.png)
+
+**Grey Slide Example**
+
+![Grey Slide Example](http://i.imgur.com/YvmrrHb.png)
+
+**Purple Slide Example**
+
+![Purple Slide Example](http://i.imgur.com/qygyiao.png)
+
+**Red Slide Example**
+
+![Red Slide Example](http://i.imgur.com/Mvdx6w4.png)
+
+Fonts can be changed within ImageMagick calls and informational bar colours can be altered with Photoshop or GIMP.
+
+## Current workflow
 
 **Step 1. index.php**
 
