@@ -1,4 +1,7 @@
 # MCLD SlideGen
+
+:warning: **This project is no longer under active development** :warning:
+
 ## Automating web slide creation
 ### Created by Daniel Messer, Web Content Manager
 
